@@ -1,0 +1,5 @@
+Rencana Konten MyReso:
+- Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
