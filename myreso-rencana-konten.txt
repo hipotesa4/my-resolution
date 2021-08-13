@@ -4,9 +4,11 @@ Rencana Konten MyReso:
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ Angular
 - Struktur Data Dasar
 - PHP Frameworks
   ^Laravel
 - Interview
 - Vlogs
 - Python
+- Go
